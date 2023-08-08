@@ -1,0 +1,13 @@
+#app {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+#selection-box {
+  position: absolute;
+  border: 2px dashed blue;
+  background-color: rgba(0, 0, 255, 0.2);
+  pointer-events: none;
+  display: none;
+}
